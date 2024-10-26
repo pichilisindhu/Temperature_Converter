@@ -19,10 +19,7 @@ Enter a temperature value in the input field.
 Select "Celsius to Fahrenheit" or "Fahrenheit to Celsius" to view the conversion result.
 
 # Formula Used:
-Celsius to Fahrenheit: 
-𝐹 = C*(9/5)+32
-Fahrenheit to Celsius: 
-C=(F-32)*5/9
+Celsius to Fahrenheit: 𝐹 = C*(9/5)+32       Fahrenheit to Celsius: C=(F-32)*5/9
 ![Screenshot 2024-10-26 072631](https://github.com/user-attachments/assets/72dd4a51-d0b1-44d7-ab95-0ac3f18885a0)
 
 ​
